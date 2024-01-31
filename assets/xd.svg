@@ -19,18 +19,11 @@
     </style>
 
     <div class="container">
-      <img
-        class="hero"
-        src="https://github.com/glitchnobody/glitchnobody/blob/main/assets/hero.jpg?raw=true"
-        width="100%"
-      />
+     
 
       <h1>
         Hi there!
-        <img
-          src="https://github.com/glitchnobody/glitchnobody/blob/main/assets/hi.gif?raw=true"
-          width="35"
-        />
+        span
         i'm sid
       </h1>
     </div>
