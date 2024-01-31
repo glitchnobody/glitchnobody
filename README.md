@@ -1,6 +1,6 @@
 <img src="https://github.com/glitchnobody/glitchnobody/blob/main/assets/hero.jpg?raw=true" width="100%" />
 <h1 align="center">
-Hi there! i'm sid
+Hi there! I'm Sid
 </h1>
 
 <h3 align="center">A Product designer andFrontend dev</h3>
